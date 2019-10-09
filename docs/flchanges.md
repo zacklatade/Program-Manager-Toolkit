@@ -7,11 +7,10 @@ PMs will be managing their Corps Members CYschoolhouse sections. Each individual
 
 If you are looking for the Policy for Focus List Changes scroll down. 
 
-If you are looking for:
+Click here if you are looking for:
 - [Dropping Focus List Students](dropflstud.md)
 - [Transferring Focus List Students](transferflstud.md)
 - [Adding Focus List Students](addflstud.md)
-- [Steps After You Add a Student](stepsafter.md)
 
 ### Policy for Exiting and Adding Focus List Students
 
