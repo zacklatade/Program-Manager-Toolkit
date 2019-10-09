@@ -17,18 +17,18 @@ If you are looking for:
 
 Before starting the process of adding and dropping students there are a few things to should consider and see if the students qualify to be added or dropped.
 When making a Focus List changes, here are some questions to reflect on:
-•	Am I first looking to add initial focus list students? 
-•	Was the student I want to add on an initial focus list (aka were they already tested?)?
-•	Is the student I am removing from a course performance focus list, on an SEL focus list as well?
-	o	If so, who is replacing this student’s SEL slot?
-•	Removing a student may boost my goals/ACME but may not be the best decision for the student. How do I weigh my priorities against what is best for the student?
+- Am I first looking to add initial focus list students? 
+- Was the student I want to add on an initial focus list (aka were they already tested?)?
+- Is the student I am removing from a course performance focus list, on an SEL focus list as well?
+	- If so, who is replacing this student’s SEL slot?
+- Removing a student may boost my goals/ACME but may not be the best decision for the student. How do I weigh my priorities against what is best for the student?
 After reflecting on those questions, you need to make sure the students meet the policy to be taken off the Corps Members Focus List.
-•	Accidental Enrollment (You will see this as an option, but don’t choose it even if it was a mistake just choose a random one.)
-•	Chronic absenteeism
-•	Corps member has left the school or service (This is another option you will see but do not choose it. Please look at Transferring Sections to understand why.)
-•	Student is unwilling to work with ACM despite repeated attempts to engage student through multiple methods
-•	Student is changing subject area focus
-•	Student moved to another ACMs focus list
-•	Student no longer enrolled at school
-•	Student referred for more intensive services by other personnel
-•	Student scheduling change prevents regular participation
+- Accidental Enrollment (You will see this as an option, but don’t choose it even if it was a mistake just choose a random one.)
+- Chronic absenteeism
+- Corps member has left the school or service (This is another option you will see but do not choose it. Please look at Transferring Sections to understand why.)
+- Student is unwilling to work with ACM despite repeated attempts to engage student through multiple methods
+- Student is changing subject area focus
+- Student moved to another ACMs focus list
+- Student no longer enrolled at school
+- Student referred for more intensive services by other personnel
+- Student scheduling change prevents regular participation
