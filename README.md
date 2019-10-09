@@ -6,7 +6,7 @@ If you have any additional questions, please check out the [FAQ](faq.md) or [Sub
 
 If you would like to make improvements or request new content for this site, please reach out the the Impact Analytics team, or submit your idea through a Help Desk Ticket.
 
-## Resources
+## Pages
 
 - [Focus List Changes](flchanges.md)
 
