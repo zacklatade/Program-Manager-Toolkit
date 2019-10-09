@@ -29,6 +29,6 @@ After reflecting on those questions, you need to make sure the students meet the
 - Student is unwilling to work with ACM despite repeated attempts to engage student through multiple methods
 - Student is changing subject area focus
 - Student moved to another ACMs focus list
-- Student no longer enrolled at school
+- Student is no longer enrolled at school
 - Student referred for more intensive services by other personnel
 - Student scheduling change prevents regular participation
