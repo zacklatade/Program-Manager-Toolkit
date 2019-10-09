@@ -1,6 +1,6 @@
 # Program Manager Toolkit
 
-Welcome to Program Manager Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using during your year.
+Welcome to Program Manager Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using throughout the year.
 
 If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
 
