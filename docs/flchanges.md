@@ -1,5 +1,3 @@
-<!-- flchanges.md -->
-
 # Focus List Changes Toolkit
 
 This is to help PMs navigate through changing focus list students on CYschoolhouse.
