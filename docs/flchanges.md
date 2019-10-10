@@ -2,7 +2,6 @@
 
 This is to help PMs navigate through changing focus list students on CYschoolhouse.
 
-
 PMs will be managing their Corps Members CYschoolhouse sections. Each individual First Year Corps Member will have 5 sections in CYschoolhouse (CYSH). There is a MATH section, ELA section, Attendance section, Behavior section, and Enrichment (ELT) section. Your Team Leaders will be responsible for entering students into the ELT sections. You will be responsible for ELA, MATH, Attendance, and Behavior. There is a DESSA section that you will manage when exiting students and adding students that way they are taken out or added into the Apperson System. This document will help you to efficiently manage your Focus List changes.
 
 If you are looking for the Policy for Focus List Changes scroll down. 
