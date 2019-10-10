@@ -43,3 +43,41 @@ If the student(s) meet the policy for being dropped, then you can move forward w
 10.	To make sure the student was withdrawn from the section you will notice that in the active column they should be unchecked and there is an exit date in the “Exit Date” column.
 
 ![CYSH NA](/_images/cysh_studentnonactive.jpg)
+
+# Student Bulk Exit
+
+Now, let’s say that a student has left the school and you now need to do a Bulk Student Exit. _**Please know this works best if the student is no longer at school (they left school)**_. This will unenroll the student from all sections INCLUDING ELT. And you will have to submit a service desk to get them added back. If they are **no longer in school**, follow the steps below.
+
+1.	From the CYSH Home Page, you will *click on the Students Tab*.
+
+![CYSH Stud Sect](/_images/cysh_homestudent1.jpg)
+
+2.	From the Students tab you will click on the drop down menu and select **All Students** and click go.
+
+![CYSH Stud sect1](/_images/cysh_homestudent2.jpg)
+
+3.	From there you can look for the Student and verify the student name and their CY Student ID.
+
+![CYSH stud select](/_images/cysh_studentselect.jpg)
+
+4.	Click on the student name and you will see the picture below. Please verify the student before moving forward. 
+
+![CYSH stud verify](/_images/cysh_studentpage.jpg)
+
+5.	You will now hit **EDIT** in the Student section. 
+
+![CYSH stud edit](/_images/cysh_studentedit.jpg)
+
+6.	You will now be able to withdraw that student from all sections. You will need to fill in:
+
+	a.	Active: Uncheck the box (Blue Arrow)
+
+	b.	Section Exit Date: This should still be the day that you are exiting them from their sections. (Green Arrow).
+
+	c.	Section Exit Reason: This should be that the student has left school (Red Arrow).
+
+	d.	Click Save(Yellow Arrow) and you will exit that student from all sections.
+
+![CYSH student fill](/_images/cysh_studentfill.jpg)
+
+Once you have filled all of those in, click Save and that section should now be closed. All the students are _**withdrawn from all sections they were ever enrolled in, including ELT**_. 
