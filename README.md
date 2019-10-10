@@ -1,21 +1,13 @@
-# Program Manager Toolkit
+# CYLA_Assessments_Toolkit
 
-Welcome to Program Manager Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using throughout the year.
+This documentation was created using [Docsify.js](https://docsify.js.org/#/) and hosted on [Github pages](https://pages.github.com/).
 
-If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
+If you would like to edit this document:
 
-If you would like to make improvements or request new content for this site, please reach out the the Impact Analytics team, or submit your idea through a Help Desk Ticket.
-
-## Pages
-
-- [Focus List Changes](flchanges.md)
-
+1. Download [Sublime Text](https://www.sublimetext.com/) or whichever default text editor you prefer.
+2. Download [Github Desktop](https://desktop.github.com/) and create an account.
+3. Clone this repository at github.com/cylalighthouse/CYLA_Assessments_Toolkit
+4. Commit and push new changes!
 
 
-## Features
-- Smart full-text search plugin
-- Video resources
-- Sidebar navigation
-- Downloadable PDF embeds
-- Comments and reacts 
-
+To learn Markdown, visit this [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for more information.
